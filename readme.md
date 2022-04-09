@@ -2,7 +2,7 @@
 
 ![GitHub - License](https://img.shields.io/github/license/ome9ax/target-core)
 [![Python package builder](https://github.com/ome9ax/target-core/workflows/Python%20package/badge.svg)](https://github.com/ome9ax/target-core)
-[![codecov](https://codecov.io/gh/ome9ax/target-core/branch/main/graph/badge.svg?token=KV0cn4jKs2)](https://codecov.io/gh/ome9ax/target-core)
+[![codecov](https://codecov.io/gh/ome9ax/target-core/branch/main/graph/badge.svg?token=XU8aAH3yI5)](https://codecov.io/gh/ome9ax/target-core)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/target-core.svg)](https://pypi.org/project/target-core/)
 [![PyPI version](https://badge.fury.io/py/target-core.svg)](https://badge.fury.io/py/target-core)
 [![PyPi project installs](https://img.shields.io/pypi/dm/target-core.svg?maxAge=2592000&label=installs&color=%2327B1FF)](https://pypi.org/project/target-core)
