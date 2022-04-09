@@ -1,0 +1,5 @@
+{
+    "file_type": "jsonl",
+    "compression": "gzip",
+    "naming_convention": "{stream}-{timestamp}.jsonl"
+}
